@@ -1,3 +1,4 @@
+// compute the interest and display the result. Linked to onClick event of the Compute Interest button in index.html
 function compute()
 {
     let principal = document.getElementById("principal").value;
@@ -7,6 +8,7 @@ function compute()
     let amount = parseInt(principal) + parseFloat(interest);
     let result = document.getElementById("result");
     let year = new Date().getFullYear() + parseInt(years);  
+
 
     if (principal <= 0) {
         alert("Enter a positive number");
