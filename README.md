@@ -8,7 +8,7 @@ Module 4  Project: Simple Interest Calculator
 
 Repo: e-plantShopping  https://github.com/TimCTaylor/simple-interest-calculator 
 
-Live site: TBD
+Live site: (https://timctaylor.github.io/simple-interest-calculator/)
 
 This is a simple project to show a few basic html, css, and javascript patterns.
 
