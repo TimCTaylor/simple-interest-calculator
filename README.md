@@ -6,7 +6,7 @@ Part of **Full Stack Developer Professional Certification**
 
 Module 4  Project: Simple Interest Calculator
 
-Repo: e-plantShopping  https://github.com/TimCTaylor/simple-interest-calculator 
+Repo: simple-interest-calculator  https://github.com/TimCTaylor/simple-interest-calculator 
 
 Live site: (https://timctaylor.github.io/simple-interest-calculator/)
 
